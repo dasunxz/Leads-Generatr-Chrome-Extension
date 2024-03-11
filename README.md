@@ -1,0 +1,3 @@
+Chrome Extension Project: Link Saver
+
+I developed a custom Chrome extension using HTML, CSS, and JavaScript aimed at enhancing user productivity and organization. This extension allows users to effortlessly save specific links for later access or bookmark entire tabs they are currently using. By providing a centralized platform for storing and managing saved links, users can easily access their desired content without cluttering their browser bookmarks or history. This project demonstrates my proficiency in front-end development and my ability to create practical solutions to streamline user experiences.
